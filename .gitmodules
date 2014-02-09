@@ -1,0 +1,6 @@
+[submodule "QC plugins/DataTools"]
+	path = QC plugins/DataTools
+	url = git@github.com:kineme/DataTools.git
+[submodule "QC plugins/QCPatchXcodeTemplate"]
+	path = QC plugins/QCPatchXcodeTemplate
+	url = git@github.com:kineme/QCPatchXcodeTemplate.git
