@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>editorViewerWindow</key>
-	<string>-1 46 556 732 0 0 1280 778 </string>
+	<string>0 43 1280 735 0 0 1280 778 </string>
 	<key>frameworkVersion</key>
 	<string>{156.30}</string>
 	<key>portAttributes</key>
@@ -468,7 +468,7 @@
 							<key>Radius</key>
 							<dict>
 								<key>value</key>
-								<real>0.125</real>
+								<real>0.050000000000000003</real>
 							</dict>
 							<key>Shadow_Color</key>
 							<dict>
@@ -561,7 +561,7 @@
 							<key>Radius</key>
 							<dict>
 								<key>value</key>
-								<real>0.125</real>
+								<real>0.050000000000000003</real>
 							</dict>
 							<key>Shadow_Color</key>
 							<dict>
@@ -617,14 +617,14 @@
 						hBNOU011dGFibGVEaWN0aW9uYXJ5
 						AISEDE5TRGljdGlvbmFyeQCEhAhO
 						U09iamVjdACFhAFpBJKEhIQITlNT
-						dHJpbmcBlYQBKwhwb3NpdGlvboaS
-						hISEB05TVmFsdWUAlYQBKoSEDHtD
-						R1BvaW50PWRkfZuBgwH1hpKEl5gJ
-						c2Nyb2xsaW5nhpKEmZqam4MAAAAA
-						AKh9QIMAAAAAAHBvQIaShJeYBG5h
-						bWWGkoSXmAdDaXJjbGUnhpKEl5gK
-						em9vbUZhY3RvcoaShISECE5TTnVt
-						YmVyAJmahIQBZp0BhoY=
+						dHJpbmcBlYQBKwp6b29tRmFjdG9y
+						hpKEhIQITlNOdW1iZXIAhIQHTlNW
+						YWx1ZQCVhAEqhIQBZpwBhpKEl5gJ
+						c2Nyb2xsaW5nhpKEmpuEhAx7Q0dQ
+						b2ludD1kZH2dgwAAAAAAqH1AgwAA
+						AAAAcG9AhpKEl5gIcG9zaXRpb26G
+						koSam56dgYMB9YaShJeYBG5hbWWG
+						koSXmAdDaXJjbGUnhoY=
 						</data>
 					</dict>
 				</dict>
@@ -654,7 +654,7 @@
 							<key>Radius</key>
 							<dict>
 								<key>value</key>
-								<real>0.125</real>
+								<real>0.050000000000000003</real>
 							</dict>
 							<key>Shadow_Color</key>
 							<dict>
@@ -710,13 +710,13 @@
 						hBNOU011dGFibGVEaWN0aW9uYXJ5
 						AISEDE5TRGljdGlvbmFyeQCEhAhO
 						U09iamVjdACFhAFpA5KEhIQITlNT
-						dHJpbmcBlYQBKwhwb3NpdGlvboaS
-						hISEB05TVmFsdWUAlYQBKoSEDHtD
-						R1BvaW50PWRkfZv/9YaShJeYCXNj
-						cm9sbGluZ4aShJmampuDAAAAAACo
-						fUCDAAAAAABwb0CGkoSXmAp6b29t
-						RmFjdG9yhpKEhIQITlNOdW1iZXIA
-						mZqEhAFmnQGGhg==
+						dHJpbmcBlYQBKwp6b29tRmFjdG9y
+						hpKEhIQITlNOdW1iZXIAhIQHTlNW
+						YWx1ZQCVhAEqhIQBZpwBhpKEl5gJ
+						c2Nyb2xsaW5nhpKEmpuEhAx7Q0dQ
+						b2ludD1kZH2dgwAAAAAAqH1AgwAA
+						AAAAcG9AhpKEl5gIcG9zaXRpb26G
+						koSam56d//WGhg==
 						</data>
 					</dict>
 				</dict>
@@ -1138,8 +1138,8 @@
 			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpA5KE
 			hIQITlNTdHJpbmcBlYQBKwhwb3NpdGlvboaShISEB05TVmFsdWUA
 			lYQBKoSEDHtDR1BvaW50PWRkfZsAAYaShJeYCXNjcm9sbGluZ4aS
-			hJmampvugwAAAAAAQEjAhpKEl5gKem9vbUZhY3RvcoaShISECE5T
-			TnVtYmVyAJmahIQBZp0BhoY=
+			hJmampuDAAAAAADQb0CDAAAAAACgWsCGkoSXmAp6b29tRmFjdG9y
+			hpKEhIQITlNOdW1iZXIAmZqEhAFmnQGGhg==
 			</data>
 		</dict>
 	</dict>
@@ -1163,7 +1163,7 @@
 					<real>0.0</real>
 				</dict>
 				<key>Radius</key>
-				<real>0.125</real>
+				<real>0.050000000000000003</real>
 				<key>Shadow_Color</key>
 				<dict>
 					<key>alpha</key>
@@ -1633,7 +1633,7 @@
 												<key>operand_2</key>
 												<dict>
 													<key>value</key>
-													<real>0.125</real>
+													<real>0.050000000000000003</real>
 												</dict>
 												<key>operation_1</key>
 												<dict>
@@ -1683,7 +1683,7 @@
 								dHOGhg==
 											</data>
 											<key>value</key>
-											<real>0.125</real>
+											<real>0.050000000000000003</real>
 										</dict>
 									</dict>
 								</array>
@@ -2869,7 +2869,7 @@
 								aXVzhoY=
 								</data>
 								<key>value</key>
-								<real>0.125</real>
+								<real>0.050000000000000003</real>
 							</dict>
 						</dict>
 						<dict>
@@ -2929,22 +2929,12 @@
 								DE5TRGljdGlv
 								bmFyeQCEhAhO
 								U09iamVjdACF
-								hAFpApKEhIQI
+								hAFpAZKEhIQI
 								TlNTdHJpbmcB
 								lYQBKwRuYW1l
 								hpKEl5gNU29m
 								dG5lc3MgTW9k
-								ZYaShJeYBG1l
-								bnWGkoSEhA5O
-								U011dGFibGVB
-								cnJheQCEhAdO
-								U0FycmF5AJWW
-								A5KEl5gHU29m
-								dCBJboaShJeY
-								C1NvZnQgQ2Vu
-								dGVyhpKEl5gI
-								U29mdCBPdXSG
-								hoY=
+								ZYaG
 								</data>
 								<key>value</key>
 								<integer>1</integer>
@@ -3122,12 +3112,12 @@
 					BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011
 					dGFibGVEaWN0aW9uYXJ5AISEDE5TRGljdGlv
 					bmFyeQCEhAhOU09iamVjdACFhAFpA5KEhIQI
-					TlNTdHJpbmcBlYQBKwhwb3NpdGlvboaShISE
-					B05TVmFsdWUAlYQBKoSEDHtDR1BvaW50PWRk
-					fZv/9YaShJeYCXNjcm9sbGluZ4aShJmampuD
-					AAAAAACofUCDAAAAAABwb0CGkoSXmAp6b29t
-					RmFjdG9yhpKEhIQITlNOdW1iZXIAmZqEhAFm
-					nQGGhg==
+					TlNTdHJpbmcBlYQBKwp6b29tRmFjdG9yhpKE
+					hIQITlNOdW1iZXIAhIQHTlNWYWx1ZQCVhAEq
+					hIQBZpwBhpKEl5gJc2Nyb2xsaW5nhpKEmpuE
+					hAx7Q0dQb2ludD1kZH2dgwAAAAAAqH1AgwAA
+					AAAAcG9AhpKEl5gIcG9zaXRpb26GkoSam56d
+					//WGhg==
 					</data>
 				</dict>
 			</dict>
