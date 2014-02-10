@@ -4,3 +4,6 @@
 [submodule "QC plugins/QCPatchXcodeTemplate"]
 	path = QC plugins/QCPatchXcodeTemplate
 	url = git@github.com:kineme/QCPatchXcodeTemplate.git
+[submodule "QC plugins/origami"]
+	path = QC plugins/origami
+	url = git@github.com:facebook/origami.git
