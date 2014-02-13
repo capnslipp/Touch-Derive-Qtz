@@ -1,9 +1,9 @@
-[submodule "QC plugins/DataTools"]
-	path = QC plugins/DataTools
+[submodule "Plugins/DataTools"]
+	path = Plugins/DataTools
 	url = git@github.com:capnslipp/DataTools.git
-[submodule "QC plugins/QCPatchXcodeTemplate"]
-	path = QC plugins/QCPatchXcodeTemplate
+[submodule "Plugins/QCPatchXcodeTemplate"]
+	path = Plugins/QCPatchXcodeTemplate
 	url = git@github.com:kineme/QCPatchXcodeTemplate.git
-[submodule "QC plugins/origami"]
-	path = QC plugins/origami
+[submodule "Plugins/origami"]
+	path = Plugins/origami
 	url = git@github.com:facebook/origami.git
